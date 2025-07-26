@@ -1,2 +1,3 @@
-*.py linguist-language=Python
-*.html linguist-language=ignore
+# Ignore external libs or boilerplate HTML
+static/vendor/* linguist-vendored
+*.py linguist-detectable=true
