@@ -1,3 +1,1 @@
-# Ignore external libs or boilerplate HTML
-static/vendor/* linguist-vendored
-*.py linguist-detectable=true
+*.html linguist-detectable=false
